@@ -4,7 +4,7 @@ This project involves using SQL to perform data analysis and exploration on a sa
 
 ## Database Setup:
 
-- Creation of the data_sf database.
+- Creation of the data_sf database
 -Use of the salaries table for queries.
 
 ## Key Queries:
