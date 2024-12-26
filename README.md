@@ -1,9 +1,8 @@
-SQL Queries for Salary Data Analysis
+# SQL Queries for Salary Data Analysis
 
-Description
 This project involves using SQL to perform data analysis and exploration on a salary dataset. It demonstrates the use of basic and advanced SQL queries for various operations, such as retrieving data, filtering records, counting, aggregating, and calculating averages.
 
-Features
+## Features
 Database Setup:
 
 Creation of the data_sf database.
