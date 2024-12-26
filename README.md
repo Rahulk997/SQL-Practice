@@ -9,11 +9,16 @@ This project involves using SQL to perform data analysis and exploration on a sa
 
 ## Key Queries:
 
--Retrieve all rows and columns from the dataset.
+-Retrieve all rows and columns from the dataset. 
+
 -Show specific columns like EmployeeName and JobTitle.
+
 -Count the total number of employees in the dataset.
+
 -Identify unique job titles.
+
 -Filter employees with overtime pay greater than a certain threshold.
+
 -Calculate the average base pay of all employees.
 
 ## Insights:
